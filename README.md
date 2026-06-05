@@ -6,8 +6,8 @@ A full-stack Lead Management CRM application built with React.js, Node.js, Expre
 
 ## 🚀 Live Demo
 
-- **Frontend:** [https://your-app.vercel.app](https://your-app.vercel.app)
-- **Backend API:** [https://your-api.onrender.com](https://your-api.onrender.com)
+- **Frontend:** [https://your-app.vercel.app](https://lead-management-crm-chi.vercel.app)
+- **Backend API:** [https://your-api.onrender.com](https://lead-management-crm-akql.onrender.com)
 
 > Replace the above links with your actual deployed URLs.
 
@@ -47,7 +47,7 @@ lead-management-crm/
 │   │   └── Lead.js          # Mongoose schema
 │   ├── routes/
 │   │   └── leads.js         # CRUD API routes
-│   ├── .env                 # Environment variables (not committed)
+│   ├── .env                 # Environment variables
 │   ├── .gitignore
 │   ├── package.json
 │   └── server.js            # Express server entry point
@@ -143,7 +143,7 @@ http://localhost:5173
 
 ## 🌐 API Endpoints
 
-Base URL: `http://localhost:8000/api/leads`
+Base URL: `[http://localhost:8000/api/leads](https://lead-management-crm-akql.onrender.com/api/leads)`
 
 | Method | Endpoint       | Description          |
 |--------|---------------|----------------------|
