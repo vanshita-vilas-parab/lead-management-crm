@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "http://localhost:8000/api/leads";
+const BASE_URL = "https://lead-management-crm-akql.onrender.com/api/leads";
 
 export const getAllLeads = (search = "", status = "") =>
   axios.get(BASE_URL, { params: { search, status } });
