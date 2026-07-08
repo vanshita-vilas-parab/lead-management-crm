@@ -9,8 +9,6 @@ A full-stack Lead Management CRM application built with React.js, Node.js, Expre
 - **Frontend:** [https://your-app.vercel.app](https://lead-management-crm-chi.vercel.app)
 - **Backend API:** [https://your-api.onrender.com](https://lead-management-crm-akql.onrender.com)
 
-> Replace the above links with your actual deployed URLs.
-
 ---
 
 ## ✨ Features
